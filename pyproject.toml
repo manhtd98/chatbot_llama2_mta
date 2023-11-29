@@ -20,6 +20,7 @@ chainlit = "^0.7.604"
 huggingface-hub = "^0.19.4"
 ctransformers = "^0.2.27"
 docx2txt = "^0.8"
+loguru = "^0.7.2"
 
 
 [build-system]
